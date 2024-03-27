@@ -1,0 +1,44 @@
+<div class="box is-relative has-background-light mb-2 p-3" style="border-bottom: 6px solid {{color}};" id="point-{{id}}">
+  <a class="is-overlay" data-show-on-map="{{id}}"></a>
+
+  <div class="media">
+    {{#imageUrl}}
+      <div class="media-left" style="width: 7.5rem;">
+        <figure class="image is-4by3">
+          <img class="box p-0" src="{{imageUrl}}" alt="{{name}}">
+        </figure>
+      </div>
+    {{/imageUrl}}
+
+    <div class="media-content is-size-7">
+      <h3 class="mb-0">{{name}}</h3>
+
+      <p class="has-text-grey">
+        <span class="icon-text">
+          <span class="mr-2">{{category.name}}</span>
+          {{#city}}
+            <span class="icon" style="width: 1rem;"><i class="fa-solid fa-location-dot"></i></span>
+            <span class="mr-2">{{city}}</span>
+          {{/city}}
+          {{#route}}
+            <span class="icon" style="width: 1rem;"><i class="fa-solid fa-{{routeIcon}}"></i></span>
+            <span class="route-info mr-2">{{#formatTime}}{{summary.totalTime}}{{/formatTime}} ({{#formatDistance}}{{summary.totalDistance}}{{/formatDistance}})</span>
+          {{/route}}
+        </span>
+      </p>
+
+      <p>{{description}}</p> 
+
+      <p class="buttons">
+      {{#urls}}
+        <a class="button is-primary is-small" target="_blank" href="{{url}}">
+          <span class="icon is-small">
+            <i class="{{icon}}"></i>
+          </span>
+          <span>{{label}}</span>
+        </a>
+      {{/urls}}
+      </p>
+    </div>
+  </div>
+</div>

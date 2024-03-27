@@ -1,0 +1,64 @@
+[village]
+name = "Dorp"
+icon = "house-chimney"
+color = "#b4202a"
+
+[small_city]
+name = "Kleine stad"
+icon = "tree-city"
+color = "#b4202a"
+
+[large_city]
+name = "Grote stad"
+icon = "city"
+color = "#b4202a"
+
+[poi]
+name = "Bezienswaardigheid"
+icon = "camera"
+color = "#793a80"
+
+[view]
+name = "Uitzichtspunt"
+icon = "tower-observation"
+color = "#793a80"
+
+[museum]
+name = "Museum"
+icon = "museum"
+color = "#793a80"
+
+[nature]
+name = "Natuur"
+icon = "tree"
+color = "#328464"
+
+[waterfall]
+name = "Waterval"
+icon = "bridge-water"
+color = "#328464"
+
+[lake]
+name = "Meer"
+icon = "water"
+color = "#249fde"
+
+[short_hike]
+name = "Korte wandeling"
+icon = "person-walking"
+color = "#796755"
+
+[long_hike]
+name = "Lange wandeling"
+icon = "person-hiking"
+color = "#796755"
+
+[mountain_hike]
+name = "Bergwandeling"
+icon = "mountain"
+color = "#796755"
+
+[cable_car]
+name = "Kabelbaan"
+icon = "cable-car"
+color = "#796755"

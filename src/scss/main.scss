@@ -1,0 +1,179 @@
+@use 'sass:list';
+
+// Custom colors
+$periwinkle: rgba(199, 213, 245, 1);
+$vista-blue: rgba(147, 165, 197, 1);
+$delft-blue: rgba(36, 52, 80, 1);
+$yinmn-blue: rgba(64, 81, 111, 1);
+$drab-dark-brown: rgba(68, 67, 40, 1);
+
+// Import the Bulma framework
+@use 'bulma/sass' with (
+  // Custom fonts
+  $family-primary: '"Montserrat", sans-serif',
+
+  // Custom layout colors
+  $primary: $delft-blue,
+  $background: white,
+  $link: $delft-blue,
+  
+  // Custom section padding
+  $section-padding: 0rem 0rem,
+  $section-padding-desktop: 1.5rem 1.5rem,
+  
+  // Custom component variables
+  $box-radius: 4px,
+  $box-shadow: none,
+);
+
+// Import the Bulma components
+@use "bulma/sass/utilities/mixins";
+
+// Import the Bulma tooltip
+@use '@creativebulma/bulma-tooltip/dist/bulma-tooltip';
+
+// Import the font
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700');
+
+// Import Leaflet
+@import '/node_modules/leaflet/dist/leaflet.css';
+
+
+// Root layout
+html {
+  @extend .is-clipped;
+}
+
+// Main layout
+.main {
+  @extend .section;
+  @extend .content;
+  @extend .mb-0;
+}
+
+// Columns styling
+.columns {
+  height: 100vh;
+
+  @include mixins.tablet {
+    height: calc(100vh - 1.5rem);
+  }
+}
+
+// Points column styling
+#points-column {
+  height: 60vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+  @include mixins.tablet {
+    height: calc(100vh - 1.5rem);
+    padding: 0;
+    padding-right: 0.5rem;
+  }
+}
+
+// Map column styling
+#map-column {
+  height: 40vh;
+  
+  @include mixins.tablet {
+    height: calc(100vh - 1.5rem);
+    padding: 0;
+    padding-left: 0.5rem;
+  }
+
+  // Map styling
+  #map {
+    @extend .box;
+    @extend .p-0;
+    
+    height: 100%;
+
+    // Icon styling
+    .leaflet-div-icon {
+      background: none;
+      border: none;
+
+      @extend .is-flex;
+      @extend .is-flex-direction-row;
+      @extend .is-flex-wrap-nowrap;
+      @extend .is-align-items-center;
+      @extend .is-family-primary;
+      @extend .is-size-6;
+      @extend .has-text-light;
+      @extend .has-text-weight-bold;
+
+      filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.25));
+    }
+  }
+}
+
+
+// Content styling
+.content {
+  // Headings
+  @for $i from 1 through 6 {
+    h#{$i} {
+      @if $i <= 2 {
+        @extend .has-text-weight-light;
+        @extend .has-text-primary;
+      }
+      @if $i > 2 {
+        @extend .has-text-weight-normal;
+      }
+    }
+  }
+
+  // Link
+  /*a.is-plain {
+    color: $dvars.text;
+  }*/
+
+  // Figure
+  figure {
+    margin: 0;
+
+    &:not(:first-child) {
+      margin-top: 1rem;
+    }
+    &:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+  }
+
+  // Unordered list
+  ul {
+    @extend .mt-0;
+    @extend .ml-5;
+  }
+}
+
+// Bulma styling
+span[data-tooltip] {
+  border-bottom: none;
+}
+
+
+// Box styling
+.box {
+  // Negate border radius for mobile devices
+  //border-radius: 0;
+
+  // Include border radius for non-mobile devices
+  /*@include mixins.tablet {
+    border-radius: $radius-large;
+  }*/
+
+  // Include border radius for nested boxes
+  .box {
+    //border-radius: $radius-large;
+  }
+
+  // Colored box styling
+  //@each $name, $colors in $colors {
+  //  &.is-#{$name} {
+  //    @extend .has-background-#{$name};
+  //  }
+  //}
+}

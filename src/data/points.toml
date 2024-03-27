@@ -1,0 +1,632 @@
+# Ledromeer
+[lago_di_ledro]
+name = "Ledromeer"
+description = "Het bekende meer in de Ledrovallei, een levendige en groene vallei gelegen tussen het Gardameer en de Valle del Chiese. Gelegen op 655 meter hoogte is het een van de schoonste meren in Trentino en bereikt het in de zomer een temperatuur tot 24°C. De wandeling rond het meer van 10 km duurt ongeveer 2 uur."
+category = "lake"
+imageUrl = "/assets/images/lago_di_ledro.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lake-ledro-a-journey-in-time_md_2318", "https://en.wikipedia.org/wiki/Lago_di_Ledro"]
+location = [45.8775, 10.7545]
+
+[strada_del_ponale]
+name = "Strada del Ponale"
+description = "Een wandeling over de oude weg van Riva del Garda naar de Ledrovallei, die intensief werd gebruikt voor de opening van de Agnese- en Dom-tunnels in 1989. Langs het pad zijn spectaculaire uitzichten over het Gardameer te vinden."
+category = "long_hike"
+imageUrl = "/assets/images/strada_del_ponale.png"
+urls = ["https://www.ponale.eu/it-it", "https://www.outdooractive.com/en/route/mountain-hike/ledro/sentiero-del-ponale-from-ledro-/9465916/"]
+location = [45.86530, 10.82053]
+routeModality = "driving"
+
+[gallerie_di_cima_rocca]
+name = "Gallerie di Cima Rocca"
+description = "Een wandeling door de bergen nabij Riva del Garda en Biacesa langs ruïnes en grotten uit de Eerste Wedeldoorlog bij de Cima Rocca. Ook de kleine San Giovannikapel stamt uit deze tijd. Parkeren in Biacesa."
+category = "long_hike"
+imageUrl = "/assets/images/gallerie_di_cima_rocca.png"
+urls = ["https://www.outdooractive.com/en/route/mountain-hike/ledro/cima-rocca/24235842/"]
+location = [45.86991, 10.81932]
+routeLocation = [45.86698, 10.81133]
+routeModality = "driving"
+
+[molina_di_ledro]
+name = "Molina di Ledro"
+description = "Een dorp op de rechteroever van het Ledromeer en een van de hoofdplaatsen in de vallei. Bij Besta bevindt zich ene dagstrand en er zijn verschillende souvenirwinkeltjes langs de bouevard te vinden. De weekmarkt is elke zaterdag."
+category = "village"
+imageUrl = "/assets/images/molina_di_ledro.png"
+urls = ["https://www.visittrentino.info/en/trentino/molina-di-ledro_md_188"]
+location = [45.8713221, 10.7755719]
+routeModality = "walking"
+
+[palafitte_di_ledro]
+name = "Palafitte di Ledro"
+description = "Molina was de locatie van een van de belangrijkste prehistorische nederzettingen in het gebied. Het paalwoningenmuseum is opgericht om relieken en artefacten uit deze nederzetting tentoon te stellen."
+category = "museum"
+city = "Molina di Ledro"
+imageUrl = "/assets/images/palafitte_di_ledro.png"
+urls = ["https://www.visittrentino.info/en/trentino/molina-di-ledro_md_188"]
+location = [45.87397, 10.76541]
+routeModality = "driving"
+
+[madonnina_di_besta]
+name = "Madonnina di Besta"
+description = "Een wandeling naar een klein Mariabeeldje dat uitkijkt over het Ledromeer en de dorpjes in de vallei. Het beeldje lijkt veel groter op de foto dan het in werkelijkheid is."
+category = "short_hike"
+city = "Molina di Ledro"
+imageUrl = "/assets/images/madonnina_di_besta.png"
+urls = ["https://www.outdooractive.com/en/route/hiking-route/garda-trentino/giro-della-madonnina-di-besta/279378340/"]
+location = [45.8781190, 10.7719455]
+routeLocation = [45.87511, 10.77619]
+routeModality = "driving"
+
+[panchina_gigante]
+name = "Panchina gigante"
+description = "Een gigantische zitbank en houten hart met uitzicht over het Ledromeer, gemaakt door Best Ledro Camping in Molina. Korte maar steile wandeing van ongeveer 10 min."
+category = "short_hike"
+city = "Molina di Ledro"
+imageUrl = "/assets/images/panchina_gigante.png"
+location = [45.8748672, 10.7697290]
+routeLocation = [45.87604, 10.76926]
+routeModality = "driving"
+
+[mezzolago]
+name = "Mezzolago"
+description = "Een klein dorpje op de noordoever van het Ledromeer, waar ook het welbekende \"torentje\" staat langs de Via Belvedere. De wandelroute langs het meer leidt door dit pittoreske dorp."
+category = "village"
+imageUrl = "/assets/images/mezzolago.png"
+location = [45.8812240, 10.7508258]
+routeModality = "walking"
+
+[pieve_di_ledro]
+name = "Pieve di Ledro"
+description = "Het meest dichtbijgelegen dorp vanaf de camping gezien aan de linkeroever van het Ledromeer. De weekmarkt is elke donderdag. Een bezoek aan la Bottega dell'Artigiano, het bekende \"elfenwinkeltje\",  mag zeker niet ontbreken!"
+category = "village"
+imageUrl = "/assets/images/pieve_di_ledro.png"
+urls = ["https://www.visittrentino.info/en/trentino/pieve-di-ledro_md_189"]
+location = [45.8901489, 10.7319906]
+routeModality = "walking"
+
+[monte_corno]
+name = "Monte Corno"
+description = "Een wandeling naar de Monte Corno, een bergtop tussen de rotsen met uitzicht over het Ledromeer en een stukje van het Gardameer. De wandeling duurt vanuit de camping ongeveer de hele dag; onderweg zijn er ook een aantal uitzichtspunten te vinden."
+category = "mountain_hike"
+imageUrl = "/assets/images/monte_corno.png"
+urls = ["https://www.outdooractive.com/en/route/mountain-hike/ledro/monte-corno-the-balcony-above-lake-ledro/23636976/"]
+location = [45.8734174, 10.7113836]
+routeModality = "walking"
+
+[val_di_pur]
+name = "Val di Pur"
+description = "Een wandeling door de Purvallei naar een waterval in de Rio Val di Pur. De wandeling voert ook langs Ledro Land Art, een natuurpark met allerlei kunstwerken."
+category = "long_hike"
+imageUrl = "/assets/images/val_di_pur.png"
+urls = ["https://www.outdooractive.com/en/route/hiking-route/ledro/exploring-ledro-land-art/28721425/"]
+location = [45.86119, 10.73347]
+routeModality = "driving"
+
+[cima_pari]
+name = "Cima Parí"
+description = "Een wandeling vanaf Malga Trat naar Cima Parí, een bergtop aan de noordkant van het Ledromeer met uitzicht over vrijwel het hele meer en zelfs een stukje van de onderkant van het Gardameer. De wandeling duurt ongeveer de hele dag."
+category = "mountain_hike"
+imageUrl = "/assets/images/cima_pari.png"
+urls = ["https://www.outdooractive.com/en/route/hiking-route/garda-trentino/cima-pari/264964909/"]
+location = [45.9059018, 10.7662014]
+routeLocation = [45.92247, 10.75932]
+routeModality = "driving"
+
+[val_concei]
+name = "Val Concei"
+description = "Een wandeling door de bossen van Val di Concei, een zijdal van het Ledrodal. De wandeling duurt ongeveer een dagdeel."
+category = "long_hike"
+imageUrl = "/assets/images/val_concei.png"
+urls = ["https://www.outdooractive.com/en/route/hiking-route/ledro/val-concei/9465360/"]
+location = [45.9440818, 10.7428904]
+routeModality = "driving"
+
+[colle_di_santo_stefano]
+name = "Colle di Santo Stefano"
+description = "Het dorpje Bezzecca is bekend vanwege de slag om Bezzecca in de oorlog tussen Italië onder leiding van Garibaldi en Oostenrijk. Dit park op een heuvel is gebouwd rondom oude loopgraven uit deze oorlog."
+category = "poi"
+city = "Bezzecca"
+imageUrl = "/assets/images/colle_di_santo_stefano.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/bezzecca-ledro_md_269"]
+location = [45.8976096, 10.7212622]
+routeLocation = [45.89675, 10.71945]
+routeModality = "driving"
+
+[cascata_gorg_d_abiss]
+name = "Cascata del Gorg d'Abiss"
+description = "Een verborgen waterval in een grot nabij het dorp Tiarno di Sotto. Langs het begroeide en feeërieke pad vind je verschillende kleine watervalletjes en de watermolen Mulino dei Bugatini. Wist je dat deze waterval in de winter bevriest?"
+category = "waterfall"
+city = "Tiarno di Sotto"
+imageUrl = "/assets/images/cascata_gorg_d_abiss.png"
+urls = ["https://www.gardatrentino.it/en/info/cascata-del-gorg-dabiss_13535"]
+location = [45.9001202, 10.6711658]
+routeLocation = [45.89666, 10.67665]
+routeModality = "driving"
+
+[biotopo_lago_d_ampola]
+name = "Biotopo Lago d'Ampola"
+description = "Een biotoop met een klein museum op de oever van het Ampolameer, net aan de andere kant van de Ampolapas die de Ledrovallei scheidt van de Ampolavallei. Het kleine meertje is tijdens de zomer bedekt met waterlelies."
+category = "nature"
+imageUrl = "/assets/images/biotopo_lago_d_ampola.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lago-d-ampola_md_2265"]
+location = [45.8733138, 10.6539970]
+routeModality = "driving"
+
+[passo_di_tremalzo]
+name = "Tremalzopas"
+description = "Een bergpas die de Ledrovallei scheidt van Tremosine aan het Gardameer. Hier is een klein restaurantje gevestigd, en verschillende voetpaden kronkelen vanaf hier verder de bergen in."
+category = "long_hike"
+imageUrl = "/assets/images/passo_di_tremalzo.png"
+location = [45.8366768, 10.6902453]
+routeModality = "driving"
+
+[corno_della_marogna]
+name = "Corno della Marogna"
+description = "Een wandeling die voert langs het voetpad vanaf de Tremalzopas tot het bekende tunneltje \"Tunnel Corno della Marogna\". Aan het eind van de tunnel voert een pad rechts omhoog naar de Corno della Marogna, met een wonderbaarlijk uitzicht."
+category = "mountain_hike"
+imageUrl = "/assets/images/corno_della_marogna.png"
+urls = ["https://www.outdooractive.com/en/route/hiking-route/garda-trentino/corno-della-marogna/272380276/"]
+location = [45.8365456, 10.7069200]
+routeLocation = [45.8366768, 10.6902453]
+routeModality = "driving"
+
+[val_d_ampola]
+name = "Val d'Ampola"
+description = "Een kleine picknickplek met barbecues langs het beekje Palvico, die door de Ampolavallei naar Storo stroomt."
+category = "nature"
+imageUrl = "/assets/images/val_d_ampola.png"
+location = [45.86154, 10.64146]
+routeModality = "driving"
+
+[coel_dei_gnatoi]
+name = "Coel dei Gnatoi"
+description = "Een kleine grot in de Ampolavallei die is te bereiken via een steile wandeling omhoog van ongeveer 45 minuten."
+category = "mountain_hike"
+imageUrl = "/assets/images/coel_dei_gnatoi.png"
+location = [45.8603016, 10.6360556]
+routeLocation = [45.86154, 10.64146]
+routeModality = "driving"
+
+[cascata_ampola]
+name = "Cascata Ampola"
+description = "Een van de meest fotogenieke \"droomwatervallen\" in Italië in het beekje Palvico langs de weg naar Storo."
+category = "waterfall"
+imageUrl = "/assets/images/cascata_ampola.png"
+location = [45.8437116, 10.6208265]
+routeLocation = [45.84322, 10.62031]
+routeModality = "driving"
+
+[val_lorina]
+name = "Val Lorina"
+description = "Een kleine zijvallei van de Ampolavallei met een pad dat op sommige plekken is ingeklemd dor de rotsen."
+category = "long_hike"
+imageUrl = "/assets/images/val_lorina.png"
+urls = ["https://www.outdooractive.com/en/route/mountain-hike/madonna-di-campiglio-pinzolo-val-rendena/cima-spessa-il-24-settembre-2022-06-16/253179102/"]
+location = [45.82390, 10.63349]
+routeLocation = [45.84322, 10.62031]
+routeModality = "driving"
+
+[cascata_bus_de_mort]
+name = "Cascata Bus de Mort"
+description = "Een 45 meter hoge waterval vanuit een grot waarlangs wordt geabseild tijdens het canyoning. Het pad naar de waterval loopt langs de benedenloop van de Palvico en stukjes mooie natuur."
+category = "waterfall"
+city = "Storo"
+imageUrl = "/assets/images/cascata_bus_de_mort.png"
+location = [45.8431580, 10.5941960]
+routeLocation = [45.84311, 10.58660]
+routeModality = "driving"
+
+
+# Giudicarie
+[lago_di_malga_boazzo]
+name = "Lago di Malga Boazzo (Val Daone)"
+description = "Het eerste, kleinere stuwmeer in de Daonevallei, dat de zuidelijke toegang vormt tot het natuurpark Adamello-Brenta. De vallei wordt gekenmerkt door een rijke vegetatie en de vele watervallen, en is vrijwel onbewoond en ongeschonden."
+category = "lake"
+imageUrl = "/assets/images/lago_di_malga_boazzo.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/beautiful-places/valle-di-daone_md_2370"]
+location = [46.00262, 10.51638]
+routeLocation = [46.00628, 10.51232]
+routeModality = "driving"
+
+[lago_di_malga_bissina]
+name = "Lago di Malga Bissina (Val Daone)"
+description = "Het grote stuwmeer aan de top van de Daonevallei en de toegangspoort naar de Val di Fumo. Voor de parkeerplaats moet vooraf online worden gereserveerd."
+category = "lake"
+imageUrl = "/assets/images/lago_di_malga_bissina.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/beautiful-places/valle-di-daone_md_2370", "https://www.visittrentino.info/en/guide/nature/beautiful-places/val-di-fumo_md_2308"]
+location = [46.0618, 10.5267]
+routeLocation = [46.0506592, 10.5106592]
+routeModality = "driving"
+
+[val_di_fumo]
+name = "Val di Fumo"
+description = "De Val di Fumo is een van de meest expressieve berglocaties in Trentino en leidt naar de Adamellogletsjer. Vanaf de parkeerplaats bij Lago di Malga Bissina kan een wandeling langs het meer en in de vallei gemaakt worden."
+category = "long_hike"
+imageUrl = "/assets/images/val_di_fumo.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/beautiful-places/val-di-fumo_md_2308", "https://www.outdooractive.com/en/route/hiking-route/madonna-di-campiglio-pinzolo-val-rendena/val-de-fumo-hike/274632834/"]
+location = [46.0716977, 10.5415178]
+routeLocation = [46.0506592, 10.5106592]
+routeModality = "driving"
+
+[rio_bianco]
+name = "Rio Bianco"
+description = "Een botanische tuin en verschillende watervallen nabij Stenico, waarvan de waterval in de Rio Bianco de grootste is. Onderdeel van het natuurpark Adamello-Brenta."
+category = "nature"
+imageUrl = "/assets/images/rio_bianco.png"
+urls = ["https://www.visittrentino.info/en/guide/tour/rio-bianco-waterfalls-botanic-garden_tour_9849343"]
+location = [46.0551381, 10.8473060]
+routeLocation = [46.05472, 10.84805]
+routeModality = "driving"
+
+[lago_di_molveno]
+name = "Molvenomeer"
+description = "Dit meer nabij de Brentagroep in het natuurpark Adamello-Brenta werd in 2021 uitgeroepen tot het mooiste meer van Italië. Het stadje Molveno ligt aan de noordoever van het meer."
+category = "lake"
+imageUrl = "/assets/images/lago_di_molveno.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lake-molveno-deep-deep-blue_md_2346", "https://en.wikipedia.org/wiki/Lake_Molveno"]
+location = [46.1251, 10.9600]
+routeLocation = [46.14011, 10.96410]
+routeModality = "driving"
+
+
+# Chiesevallei
+[lago_d_idro]
+name = "Idromeer"
+description = "Een bekend meer in de vallei van de Chiese, ten zuiden van Storo."
+category = "lake"
+imageUrl = "/assets/images/lago_d_idro.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lake-idro-a-dive-into-adventure_md_2311", "https://en.wikipedia.org/wiki/Lake_Idro"]
+location = [45.7724, 10.5115]
+routeLocation = [45.80335, 10.53595]
+routeModality = "driving"
+
+[biotopo_lago_d_idro]
+name = "Biotopo Lago d'Idro"
+description = "Het noordelijke deel van het Idromeer is een natuurreservaat en biotoop, waar een korte wandeling gemaakt kan worden."
+category = "nature"
+imageUrl = "/assets/images/biotopo_lago_d_idro.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lake-idro-a-dive-into-adventure_md_2311"]
+location = [45.80563, 10.53295]
+routeLocation = [45.80335, 10.53595]
+routeModality = "driving"
+
+[rocca_d_anfo]
+name = "Rocca d'Anfo"
+description = "Een complex van forten op de bergwand aan de westkant van het Idromeer. Dit fort is het grootste uit de Napoleontische tijd in Italië. Een rondleiding met gids moet vooraf geboekt worden; stevig schoeisel is vereist."
+category = "poi"
+imageUrl = "/assets/images/rocca_d_anfo.png"
+urls = ["https://www.roccadanfo.eu/en/"]
+location = [45.7752544, 10.5005343]
+routeLocation = [45.77207, 10.50047]
+routeModality = "driving"
+
+[lago_di_valvestino]
+name = "Valvestinomeer"
+description = "Een stuwmeer in de bergen tussen het Gardameer en Idromeer dat is gelegen in een vallei omringd door natuur."
+category = "lake"
+imageUrl = "/assets/images/lago_di_valvestino.png"
+urls = ["https://www.gardafriends.com/lago-di-valvestino/", "https://de.wikipedia.org/wiki/Lago_di_Valvestino"]
+location = [45.72357, 10.61064]
+routeLocation = [45.72175, 10.61246]
+routeModality = "driving"
+
+[passo_di_crocedomini]
+name = "Passo di Crocedomini"
+description = "Een bergpas die de verbinding vormt tussen het Idromeer en Iseomeer. De pas wordt omringd door grasbergen."
+category = "mountain_hike"
+imageUrl = "/assets/images/passo_di_crocedomini.png"
+urls = ["https://en.wikipedia.org/wiki/Croce_Domini_Pass"]
+location = [45.9075303, 10.4095085]
+routeModality = "driving"
+
+
+# Rendenavallei
+[cascate_nardis]
+name = "Cascata di Nardis (Val Genova)"
+description = "Een van de grootste watervallen in de Val Genova, die de noordelijke toegang vormt tot de Adamellogletsjer. Er zijn nog veel meer watervallen in de vallei te bezichtigen. Toegang tot het natuurpark Val Genova is betaald."
+category = "waterfall"
+city = "Val Genova"
+imageUrl = "/assets/images/cascate_nardis.png"
+urls = ["https://www.valgenova.com/", "https://www.outdooractive.com/en/route/hiking-route/madonna-di-campiglio-pinzolo-val-rendena/val-di-genova/46797339/"]
+location = [46.1696213, 10.7144026]
+routeLocation = [46.16795, 10.71401]
+routeModality = "driving"
+
+[cascata_di_lares]
+name = "Cascata di Lares (Val Genova)"
+description = "Een hoger gelegen waterval in de Genovavallei. In deze vallei ontspringt de rivier Sarca di Genova, die uiteindelijk in het Gardameer uitmondt."
+category = "waterfall"
+city = "Val Genova"
+imageUrl = "/assets/images/cascata_di_lares.png"
+urls = ["https://www.valgenova.com/", "https://www.outdooractive.com/en/route/hiking-route/madonna-di-campiglio-pinzolo-val-rendena/val-di-genova/46797339/"]
+location = [46.1640644, 10.6623295]
+routeLocation = [46.16632, 10.66042]
+routeModality = "driving"
+
+[madonna_di_campiglio]
+name = "Madonna di Campiglio"
+description = "Een internationaal bekend skioord in het noordwesten van Trentino dat zelfs bezocht werd door prinses Sissi en keizer Frans Jozef vna Oostenrijk. In de zomer kan van een van de vele kabelbanen gebruik gemaakt worden om een wandeling in de bergen te maken en van het uitzicht te genieten."
+category = "village"
+imageUrl = "/assets/images/madonna_di_campiglio.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/madonna-di-campiglio_md_100", "https://en.wikipedia.org/wiki/Madonna_di_Campiglio"]
+location = [46.23113, 10.82610]
+routeLocation = [46.23444, 10.82498]
+routeModality = "driving"
+
+[passo_del_groste]
+name = "Passo del Grostè"
+description = "Een bergpas gelegen boven Madonna di Campiglio. De kabelbaan \"Grostè\" die vertrekt vanuit Campo Carlo Magno (net ten noorden van M. di Campiglio) kan de pas in 25 minuten bereikt worden. Zelfs in de zomer kunnen hier nog beetjes sneeuw liggen!"
+category = "cable_car"
+city = "Madonna di Campiglio"
+imageUrl = "/assets/images/passo_del_groste.png"
+urls = ["https://www.visittrentino.info/en/webcams/groste-2500_w_4195#pos=27/03/2024~0"]
+location = [46.2155098, 10.9026487]
+routeLocation = [46.23757, 10.83630]
+routeModality = "driving"
+
+
+# Noordelijk Gardameer
+[lago_di_garda]
+name = "Gardameer"
+description = "Het grootste meer van Italië wordt in het noorden ingeklemd tussen kalksteenhellingen, die worden doorsneden door vele valleien, waaronder de Ledrovallei. Het landschap rond het meer is heel schilderachtig waar zelfs Goethe over schreef in zijn \"Italienische Reise\"."
+category = "lake"
+imageUrl = "/assets/images/lago_di_garda.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lake-garda_md_2263", "https://en.wikipedia.org/wiki/Lake_Garda"]
+location = [45.6601, 10.6914]
+routeLocation = [45.88762, 10.84177]
+routeModality = "driving"
+
+[riva_del_garda]
+name = "Riva del Garda"
+description = "Deze kleine stad aan de noordwestoever van het Gardameer wordt ook wel de \"parel van het Gardameer\" genoemd. Het historische centrum ligt direct aan het meer en bevat verschillende Middeleeuwse bouwwerken en gebouwen, waarvan de Torre Aponale de meest in het oog springende is. De weekmarkt is elke 2e en 4e woensdag van de maand."
+category = "small_city"
+imageUrl = "/assets/images/riva_del_garda.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/riva-del-garda_md_271", "https://en.wikipedia.org/wiki/Riva_del_Garda"]
+location = [45.88447, 10.84142]
+routeLocation = [45.88762, 10.84177]
+routeModality = "driving"
+
+[cascata_del_varone]
+name = "Cascata del Varone"
+description = "Net ten noorden van Riva ligt het grottenpark Cascata Varone, waarin de pittoreske 100 meter lange waterval is gelegen. De waterval wordt gevoed door de wateren van het Tennomeer."
+category = "waterfall"
+imageUrl = "/assets/images/cascata_del_varone.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/waterfalls/the-varone-waterfall_md_2289"]
+location = [45.9113712, 10.8338622]
+routeLocation = [45.91168, 10.83534]
+routeModality = "driving"
+
+[canale_di_tenno]
+name = "Canale di Tenno"
+description = "Een authentiek Middeleeuws dorpje gelegen op de groene hellingen van het Gardameer. Het dorp staat op de lijst van de mooiste dorpen in Italië."
+category = "poi"
+imageUrl = "/assets/images/canale_di_tenno.png"
+urls = ["https://www.visittrentino.info/en/guide/canale-di-tenno_md_2575"]
+location = [45.92968, 10.82640]
+routeLocation = [45.92867, 10.82784]
+routeModality = "driving"
+
+[lago_di_tenno]
+name = "Tennomeer"
+description = "Een klein meertje nabij Tenno, dat is gelegen net ten noorden van Riva del Garda. Het Tennomeer staat bekend om haar turquoise water en ligt tussen veel groene begroeiing."
+category = "lake"
+imageUrl = "/assets/images/lago_di_tenno.png"
+urls = ["https://www.visittrentino.info/en/guide/nature/lakes/lake-tenno-a-turquoise-diamond_md_2264"]
+location = [45.93840, 10.81585]
+routeLocation = [45.93547, 10.81215]
+routeModality = "driving"
+
+[arco]
+name = "Arco"
+description = "Een kleine stad ten noorden van Riva del Garda in de Sarcavallei. De weekmarkt is elke 1e en 3e woensdag van de maand."
+category = "small_city"
+imageUrl = "/assets/images/arco.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/arco_md_268"]
+location = [45.91930, 10.88580]
+routeLocation = [45.91818, 10.88753]
+routeModality = "driving"
+
+[castel_toblino]
+name = "Castel Toblino"
+description = "Een fort in het Toblinomeer dat is gebouwd op een schiereiland waarvan wordt gezegd dat de feeën er 2000 jaar geleden hebben geleefd. Het kasteel huisvest nu een restaurant."
+category = "poi"
+imageUrl = "/assets/images/castel_toblino.png"
+location = [46.05463, 10.96733]
+routeLocation = [46.05815, 10.97205]
+routeModality = "driving"
+
+[limone_sul_garda]
+name = "Limone sul Garda"
+category = "small_city"
+description = "Een pittoresk dorp aan de noordwestoever van het Gardameer dat bekend staat om haar limoenteelt en haar balkonnen met paarse bloemen. Limone is een van de bekendste toeristenoorden aan het Gardameer."
+imageUrl = "/assets/images/limone_sul_garda.png"
+urls = ["https://en.wikipedia.org/wiki/Limone_sul_Garda"]
+location = [45.8141194, 10.7915786]
+routeLocation = [45.81201, 10.79304]
+routeModality = "driving"
+
+[busatte_tempesta]
+name = "Busatte-Tempesta"
+description = "De \"trappenwandeling\" langs het oosten van het Gardameer geeft een mooi uitzicht over de dorpen in de kliffen in het noorden van het meer. De wandeling wordt gekenmerkt door verschillende ijzeren trappen die het wandelpad onderbreken."
+category = "long_hike"
+imageUrl = "/assets/images/busatte_tempesta.png"
+urls = ["https://www.outdooractive.com/en/route/mountain-hike/garda-trentino/sentiero-busatte-tempesta/1553752/"]
+location = [45.86563, 10.88185]
+routeModality = "driving"
+
+[malcesine]
+name = "Malcesine"
+description = "Een dorp aan de oostkant van het Gardameer, langs de weg Gardesana Orientale. malcesine staat bekend om haar Middeleeuwse kasteel en paleis aan de haven."
+category = "small_city"
+imageUrl = "/assets/images/malcesine.png"
+urls = ["https://en.wikipedia.org/wiki/Malcesine"]
+location = [45.76408, 10.81000]
+routeLocation = [45.76294, 10.81105]
+routeModality = "driving"
+
+[monte_baldo]
+name = "Monte Baldo"
+description = "Een bergrug gelegen tussen het Gardameer en de Adigevallei die vanuit Malcesine met de gelijknamige kabelbaan bereikt kan worden."
+category = "cable_car"
+imageUrl = "/assets/images/monte_baldo.png"
+urls = ["https://en.wikipedia.org/wiki/Monte_Baldo"]
+location = [45.7692469, 10.8643811]
+routeLocation = [45.76294, 10.81105]
+routeModality = "driving"
+
+
+# Zuidelijk Gardameer
+[santuario_di_montecastello]
+name = "Santuario di Montecastello"
+description = "Een bedevaartskerk in Tignale hoog op de westoever van het Gardameer. Het geeft een mooi en breed uitzicht over het Gardameer; bij mooi weer is ook Sirmione in het zuiden te zien."
+category = "poi"
+city = "Tignale"
+imageUrl = "/assets/images/santuario_di_montecastello.png"
+urls = ["https://www.gardameer-nu.nl/attracties/santuario-di-montecastello/"]
+location = [45.74215, 10.73342]
+routeLocation = [45.74251, 10.73098]
+routeModality = "driving"
+
+[museo_della_carta]
+name = "Museo della Carta"
+description = "Een museum gelegen in de zogeheten \"papiermolenvallei\" nabij Toscolano-Maderno die tentoonstelt hoe papier gemaakt werd tot in de 20e eeuw."
+category = "museum"
+city = "Toscolano-Maderno"
+imageUrl = "/assets/images/museo_della_carta.png"
+urls = ["https://www.valledellecartiere.it/en/"]
+location = [45.64948, 10.60412]
+routeLocation = [45.64722, 10.60509]
+routeModality = "driving"
+
+[rocca_di_manerba]
+name = "Rocca di Manerba"
+description = "Een van de hoogtse punten in het zuidoosten van het Gardameer, op het vlakke deel, dat al in de Prehistorie bewoond werd. Op de rots zijn de ruïnes van een Middeleeuws fort te zien. De \"rots van Enzo\" geeft een panoramisch uitzicht over het zuiden van het Gardameer."
+category = "view"
+imageUrl = "/assets/images/rocca_di_manerba.png"
+urls = ["https://en.wikipedia.org/wiki/Rocca_di_Manerba_del_Garda"]
+location = [45.5575704, 10.5720948]
+routeLocation = [45.55693, 10.56920]
+routeModality = "driving"
+
+[sirmione]
+name = "Sirmione"
+description = "Een stad op de zuidoever van het Gardameer, waarvan het hisctorische centrum zich op een schiereiland bevindt dat aan drie anten door het meer wordt ontsloten."
+category = "small_city"
+imageUrl = "/assets/images/sirmione.png"
+urls = ["https://en.wikipedia.org/wiki/Sirmione"]
+location = [45.49248, 10.60799]
+routeLocation = [45.48995, 10.60827]
+routeModality = "driving"
+
+[grotte_di_catullo]
+name = "Grotte di Catullo"
+description = "Het topje vna het schiereiland van Sirmione huisvest de grotten van Catullus, de ruïnes van een Romeinse villa uit de 3e eeuw van onze tijd."
+category = "museum"
+city = "Sirmione"
+imageUrl = "/assets/images/grotte_di_catullo.png"
+urls = ["http://www.grottedicatullo.beniculturali.it/", "https://en.wikipedia.org/wiki/Grottoes_of_Catullus"]
+location = [45.50126, 10.60684]
+routeLocation = [45.48995, 10.60827]
+routeModality = "driving"
+
+[san_martino_della_battaglia]
+name = "San Martino della Battaglia"
+description = "Een toren en park gebouwd ter herdenking van de slag van Solferino in de tweede Italiaanse Onafhankelijkheidsoorlog in 1859. Het is gelegen ten zuiden van Sirmione in het uisterste noorden van de Povlakte."
+category = "poi"
+imageUrl = "/assets/images/san_martino_della_battaglia.png"
+location = [45.42521, 10.60250]
+routeLocation = [45.42605, 10.60275]
+routeModality = "driving"
+
+
+# Adigevallei
+[trento]
+name = "Trento"
+description = "De hoofdstad en grootste stad in Trentino, gelegen in de Adigevallei."
+category = "large_city"
+imageUrl = "/assets/images/trento.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/trento_md_192", "https://nl.wikipedia.org/wiki/Trente_(stad)"]
+location = [46.06731, 11.12141]
+routeModality = "driving"
+
+[rovereto]
+name = "Rovereto"
+description = "Een stad in de Adigevallei 25 km ten zuiden van Trento, bekend om haar kasteel en verschillende musea."
+category = "large_city"
+imageUrl = "/assets/images/rovereto.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/rovereto_md_266", "https://nl.wikipedia.org/wiki/Rovereto"]
+location = [45.88646, 11.04498]
+routeModality = "driving"
+
+[campana_dei_caduti]
+name = "Campana dei Caduti"
+description = "De klok van de gevallenen staat op een heuvel in Rovereto en slaat elke ochtend 100 keer voor de gevallenen als herdinking voor de gevallenen in alle oorlogen."
+category = "museum"
+city = "Rovereto"
+imageUrl = "/assets/images/campana_dei_caduti.png"
+urls = ["https://www.visittrentino.info/en/trentino/resorts-towns/rovereto_md_266"]
+location = [45.87413, 11.04021]
+routeLocation = [45.87437, 11.04129]
+routeModality = "driving"
+
+[castel_beseno]
+name = "Castel Beseno"
+description = "Het grootste gefortificeerde kasteel in Trentino ligt op de heuvels van de Adigevallei."
+category = "museum"
+city = "Besenello"
+imageUrl = "/assets/images/castel_beseno.png"
+urls = ["https://www.visittrentino.info/en/guide/must-see/castles/beseno-castle_md_2626"]
+location = [45.93089, 11.10963]
+routeLocation = [45.93187, 11.11160]
+routeModality = "driving"
+
+
+# Veneto
+[verona]
+name = "Verona"
+description = "Deze stad aan de Adige in Veneto is benoemd tot UNESCO-werelderfgoed. De stad staat bekend om haar Romeinse amfitheater, de op twee na grootste in Italië, en het wereldberoemde balkon van Julia uit het bekende toneelstuk van Shakespeare."
+category = "large_city"
+imageUrl = "/assets/images/verona.png"
+urls = ["https://nl.wikipedia.org/wiki/Verona_(stad)"]
+location = [45.43894, 10.99437]
+routeLocation = [45.43633, 10.99281]
+routeModality = "driving"
+
+[vicenza]
+name = "Vicenza"
+description = "Een stad op het Venetiaans plateau bekend om e architectuur van Andrea Palladio uit de 16e eeuw."
+category = "large_city"
+imageUrl = "/assets/images/vicenza.png"
+urls = ["https://nl.wikipedia.org/wiki/Vicenza_(stad)"]
+location = [45.54737, 11.54673]
+routeModality = "driving"
+
+
+# Lombardije
+[mantova]
+name = "Mantua"
+description = "Een grote stad op de Povlakte die een significante rol speelde in de geschiedenis van de opera."
+category = "large_city"
+imageUrl = "/assets/images/mantova.png"
+urls = ["https://nl.wikipedia.org/wiki/Mantua_(stad)"]
+location = [45.15897, 10.79454]
+routeModality = "driving"
+
+[brescia]
+name = "Brescia"
+description = "Een stad in Lombardije, in het noordwesten van de Povlakte, gelegen tussen het Gardameer en Iseomeer."
+category = "large_city"
+imageUrl = "/assets/images/brescia.png"
+urls = ["https://nl.wikipedia.org/wiki/Brescia_(stad)"]
+location = [45.53986, 10.21918]
+routeLocation = [45.53801, 10.21901]
+routeModality = "driving"
+
+[lago_d_iseo]
+name = "Iseomeer"
+description = "Het vierde grootste meer van Italië, gelegen dichtbij de steden Brescia en Bergamo."
+category = "nature"
+imageUrl = "/assets/images/lago_d_iseo.png"
+urls = ["https://en.wikipedia.org/wiki/Lake_Iseo"]
+location = [45.7086, 10.0857]
+routeLocation = [45.65752, 10.04843]
+routeModality = "driving"

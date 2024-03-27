@@ -1,0 +1,40 @@
+{
+  "name": "ledrolijst",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Danae Dekker",
+  "license": "GPL-3.0-or-later",
+  "browser": "src/js/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danae/reismaat.git"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "postinstall": "gulp build",
+    "update": "git pull && npm install"
+  },
+  "dependencies": {
+    "@creativebulma/bulma-tooltip": "^1.2.0",
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "brfs": "^2.0.2",
+    "browserify": "^17.0.0",
+    "bulma": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.7.1",
+    "leaflet": "^1.9.4",
+    "leaflet-routing-machine": "^3.2.12",
+    "mustache": "^4.2.0",
+    "sass": "^1.72.0",
+    "toml": "^3.0.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}
